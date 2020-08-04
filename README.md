@@ -1,2 +1,2 @@
 # testrepo
-Repo for testing hithub
+Repo for testing github
